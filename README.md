@@ -1,1 +1,1 @@
-Kalpana Mobiles, a mobile distributor, seeks a detailed analysis of its sales team's performance by comparing the actual mobile units sold with the targeted figures during the first six months of the year.
+Kalpana Mobiles, a mobile distributor, seeks a detailed analysis of its sales team's performance by comparing the actual mobile units sold with the targeted figures during the first six months of the year. 
