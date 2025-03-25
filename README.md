@@ -1,4 +1,4 @@
-# 📊 Kalpana Mobiles: Sales Performance Analysis
+# 📊 Kalpana Mobiles: Sales Performance Analysis 
 
 ## 🔍 Project Overview
 Kalpana Mobiles, a **mobile distributor**, requested a **comprehensive analysis** of its **sales team's performance**, comparing actual vs. target mobile units sold during the **first six months of the year**.
